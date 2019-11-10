@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Easy ToDo</string>
+    <string name="about_app">About app</string>
+    <string name="add_task">Add Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="title_activity_task_detail">Task detail</string>
+    <string name="required_field">Required field</string>
+    <string name="title_activity_image_viewer">Image preview</string>
+    <string name="remove">Remove</string>
+    <string name="edit">Edit</string>
+    <string name="share">Share</string>
+    <string name="dialog_remove_title">Remove task</string>
+    <string name="dialog_remove_message">Do you want to remove the task. This operation cannot be undone!</string>
+    <string name="cancel">Cancel</string>
+    <string name="capture_image">Capture image</string>
+    <string name="choose_image_source">Choose image source</string>
+    <string name="select_from_gallery">Select from gallery</string>
+    <string name="save">Save</string>
+    <string name="task_name">Task name</string>
+    <string name="note">Note</string>
+    <string name="not_set">Not set</string>
+    <string name="select_image">Select image</string>
+    <string name="date">Date</string>
+    <string name="app_intro_1_text">Welcome to the best ToDo app in the world!</string>
+    <string name="app_intro_2_text">The Easy app will increase your productivity tenfold. You will see!</string>
+    <string name="app_intro_3_text">You like the images? I got them from freepik.com.</string>
+    <string name="app_intro_2_title">Increase productivity</string>
+    <string name="app_intro_3_title">Nice images right</string>
+    <string name="done">Done</string>
+    <string name="skip">Skip</string>
+    <string name="share_image">Share image</string>
+    <string name="app_version">App Version</string>
+    <string name="location">Location</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="schedule_notification">Schedule notification</string>
+    <string name="you_have_new_tasks">Máte nové upomínky na úkoly</string>
+</resources>
